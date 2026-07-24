@@ -1,7 +1,7 @@
 /* =======================================================
-* App Name: Scientific-Calculator
-* App URL: https://github.com/rizalfahlevi8/scientific-calculator
-* Developer: Muhammad Rizal Fahlevi
+* App Name: Calculator
+* App URL: https://github.com/Ferixcoardana/Calculator
+* Developer: Ferixco Ardana
 ======================================================== */
 
 const result = document.getElementById('result');
